@@ -1,16 +1,15 @@
-### Hi there 👋
+## **Hi there, I'm [Koushik!](https://koushiksahu.github.io/Portfolio-Website/)** 👋
+---
 
-<!--
-**KoushikSahu/KoushikSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a computer science and engineering undergraduate at National Institute of Technology, Rourkela
 
-Here are some ideas to get you started:
+- I am currently working on my enhancing my software development skills
+- 2020 goal: Start contributing to open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My github stats:**
+
+![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=KoushikSahu&show_icons=true&theme=tokyonight)
+
+**Languages used:**
+
+![Koushik's top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KoushikSahu&theme=tokyonight)

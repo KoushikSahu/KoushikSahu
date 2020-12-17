@@ -6,11 +6,9 @@
 🎯 2020 goal: Start contributing to open source projects<br>
 
 ### My github stats
-<br>
 ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=KoushikSahu&show_icons=true&theme=tokyonight)
 
 ### Connect with me at
-<br>
 <a href="https://www.linkedin.com/in/koushik-sahu/">
 <img align="left" alt="Koushik Sahu | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>

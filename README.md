@@ -1,7 +1,6 @@
 ## **Hi there, I'm [Koushik!](https://koushiksahu.github.io/Portfolio-Website/)** 👋
 
 ### CSE undergrad at NIT, Rourkela
-
 👨‍💻 Currently working on enhancing my software development skills<br>
 🎯 2020 goal: Start contributing to open source projects<br>
 

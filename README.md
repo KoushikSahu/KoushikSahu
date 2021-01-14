@@ -2,7 +2,10 @@
 
 ### CSE undergrad at NIT, Rourkela
 👨‍💻 Currently working on enhancing my software development skills<br>
-🎯 2020 goal: Start contributing to open source projects<br>
+🎯 2021 goals:<br> 
+ - Contribute to open source projects<br>
+ - Read more books<br>
+ - Strive to become a bit better everyday<br>
 
 ### My github stats
 ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=KoushikSahu&show_icons=true&theme=tokyonight)

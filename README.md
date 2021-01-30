@@ -1,4 +1,4 @@
-## **Hi there, I'm [Koushik!](https://koushiksahu.github.io/Portfolio-Website/)** 👋
+## **Hi there, I'm Koushik!** 👋
 
 ### CSE undergrad at NIT, Rourkela
 👨‍💻 Currently working on enhancing my software development skills<br>

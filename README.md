@@ -2,7 +2,7 @@
 
 ### CSE undergrad at NIT, Rourkela
 👨‍💻 Currently working on enhancing my software development skills<br>
-🎯 2021 goals:<br> 
+🎯 2022 goals:<br> 
  - Contribute to open source projects<br>
  - Read more books<br>
  - Strive to become a bit better everyday<br>

@@ -1,12 +1,12 @@
 ## **Hi there, I'm Koushik!** 👋
 
-### CSE undergrad at NIT, Rourkela
+### Software Engineer at Microsoft
 👨‍💻 Currently working on enhancing my software development skills<br>
 🎯 2022 goals:<br> 
  - Contribute to open source projects<br>
  - Read more books<br>
  - Strive to become a bit better everyday<br>
-
+National Institute of Technology, Rourkela
 ### My github stats
 ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=KoushikSahu&show_icons=true&theme=tokyonight)
 

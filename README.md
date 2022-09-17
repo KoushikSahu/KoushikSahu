@@ -5,8 +5,8 @@
 🎯 2022 goals:<br> 
  - Contribute to open source projects<br>
  - Read more books<br>
- - Strive to become a bit better everyday<br>
-National Institute of Technology, Rourkela
+ - Strive to become a bit better everyday<br><br>
+Computer Science Graduate 2022 from National Institute of Technology, Rourkela
 ### My github stats
 ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=KoushikSahu&show_icons=true&theme=tokyonight)
 

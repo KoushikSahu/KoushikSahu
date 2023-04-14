@@ -2,7 +2,7 @@
 
 ### Software Engineer at Microsoft
 👨‍💻 Currently working on enhancing my software development skills<br>
-🎯 2022 goals:<br> 
+🎯 2023 goals:<br> 
  - Contribute to open source projects<br>
  - Read more books<br>
  - Strive to become a bit better everyday<br><br>

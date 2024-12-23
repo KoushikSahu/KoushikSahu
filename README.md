@@ -1,16 +1,44 @@
-## **Hi there, I'm Koushik!** 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hi%20there,I'm%20Koushik!&textBg=false&fontSize=45&fontAlign=30&reversal=false&fontAlignY=43&animation=twinkling" alt="header" />
 
-### Software Engineer at Microsoft
-👨‍💻 Currently working on enhancing my software development skills<br>
-🎯 2023 goals:<br> 
- - Contribute to open source projects<br>
- - Read more books<br>
- - Strive to become a bit better everyday<br><br>
-Computer Science Graduate 2022 from National Institute of Technology, Rourkela
-### My github stats
-![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=KoushikSahu&show_icons=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=40&duration=3000&pause=1000&color=888888&vCenter=true&width=435&lines=Software+Engineer;Eternal+Student)](https://git.io/typing-svg)
 
-### Connect with me at
+<img height=350 width="100%" align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<img width="100%" align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+
+### Stats for nerds
+
+#### Open source
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koushiksahu" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushiksahu&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+#### Competitive programming - DSA
+
+<a href="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability">
+  <img height=220 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability" />
+</a>
+<a href="https://leetcard.jacoblin.cool/koushik_sahu?theme=light&font=Roboto&ext=activity">
+  <img height=220 width="fill" align="center" src="https://leetcard.jacoblin.cool/koushik_sahu?theme=light&font=Roboto&ext=activity" />
+</a>
+<a href="https://atcoder-readme-stats.vercel.app/stats/la_liability?show_history=5&width=500">
+  <img height=220 width="fill" align="center" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?show_history=5&width=400" />
+</a>
+
+<br/><br/>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koushiksahu/koushiksahu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/koushiksahu/koushiksahu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/koushiksahu/koushiksahu/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
 <a href="https://www.linkedin.com/in/koushik-sahu/">
 <img align="left" alt="Koushik Sahu | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>

@@ -23,7 +23,7 @@
   <img height=220 width="fill" align="center" src="https://leetcard.jacoblin.cool/koushik_sahu?theme=dark&font=Roboto&ext=activity" />
 </a>
 <a href="https://atcoder-readme-stats.vercel.app/stats/la_liability?show_history=5&width=500">
-  <img height=220 width="fill" align="center" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?theme=dracula&show_history=5&width=400" />
+  <img height=220 width="fill" align="center" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?theme=darcula&show_history=5&width=400" />
 </a>
 
 <br/>

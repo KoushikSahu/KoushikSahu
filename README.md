@@ -8,22 +8,22 @@
 ## Stats for nerds
 
 <a style="text-decoration:none" href="https://github.com/KoushikSahu">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koushiksahu&theme=dark" />
+  <img height=200 align="center" border="0" src="https://github-readme-stats.vercel.app/api?username=koushiksahu&theme=dark" />
 </a>
 <a style="text-decoration:none" href="https://github.com/KoushikSahu">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushiksahu&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" border="0" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushiksahu&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 <br/>
 
 <a style="text-decoration:none" href="https://codeforces.com/profile/La_Liability">
-  <img height=220 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability&theme=dark" />
+  <img height=220 align="center" border="0" src="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability&theme=dark" />
 </a>
 <a style="text-decoration:none" href="https://leetcode.com/u/Koushik_Sahu/">
-  <img height=220 width="fill" align="center" src="https://leetcard.jacoblin.cool/koushik_sahu?theme=dark&font=Roboto&ext=activity" />
+  <img height=220 width="fill" align="center" border="0" src="https://leetcard.jacoblin.cool/koushik_sahu?theme=dark&font=Roboto&ext=activity" />
 </a>
 <a style="text-decoration:none" href="https://atcoder.jp/users/La_Liability">
-  <img height=220 width="fill" align="center" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?theme=darcula&show_history=5&width=400" />
+  <img height=220 width="fill" align="center" border="0" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?theme=darcula&show_history=5&width=400" />
 </a>
 
 <br/>

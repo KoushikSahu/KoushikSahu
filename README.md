@@ -8,22 +8,22 @@
 ## Stats for nerds
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koushiksahu" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koushiksahu&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushiksahu&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushiksahu&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability">
-  <img height=220 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability" />
+  <img height=220 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability&theme=dark" />
 </a>
 <a href="https://leetcard.jacoblin.cool/koushik_sahu?theme=light&font=Roboto&ext=activity">
-  <img height=220 width="fill" align="center" src="https://leetcard.jacoblin.cool/koushik_sahu?theme=light&font=Roboto&ext=activity" />
+  <img height=220 width="fill" align="center" src="https://leetcard.jacoblin.cool/koushik_sahu?theme=dark&font=Roboto&ext=activity" />
 </a>
 <a href="https://atcoder-readme-stats.vercel.app/stats/la_liability?show_history=5&width=500">
-  <img height=220 width="fill" align="center" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?show_history=5&width=400" />
+  <img height=220 width="fill" align="center" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?theme=dracula&show_history=5&width=400" />
 </a>
 
 <br/>

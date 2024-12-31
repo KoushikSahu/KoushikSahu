@@ -7,22 +7,22 @@
 
 ## Stats for nerds
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a style="text-decoration:none" href="https://github.com/KoushikSahu">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koushiksahu&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a style="text-decoration:none" href="https://github.com/KoushikSahu">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushiksahu&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 <br/>
 
-<a href="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability">
+<a style="text-decoration:none" href="https://codeforces.com/profile/La_Liability">
   <img height=220 align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability&theme=dark" />
 </a>
-<a href="https://leetcard.jacoblin.cool/koushik_sahu?theme=light&font=Roboto&ext=activity">
+<a style="text-decoration:none" href="https://leetcode.com/u/Koushik_Sahu/">
   <img height=220 width="fill" align="center" src="https://leetcard.jacoblin.cool/koushik_sahu?theme=dark&font=Roboto&ext=activity" />
 </a>
-<a href="https://atcoder-readme-stats.vercel.app/stats/la_liability?show_history=5&width=500">
+<a style="text-decoration:none" href="https://atcoder.jp/users/La_Liability">
   <img height=220 width="fill" align="center" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?theme=darcula&show_history=5&width=400" />
 </a>
 

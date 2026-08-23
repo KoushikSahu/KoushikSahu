@@ -5,29 +5,6 @@
 <img height=300 width="100%" align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 <img width="100%" align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
-## Stats for nerds
-
-<a style="text-decoration:none;" href="https://github.com/KoushikSahu">
-  <img height=200 align="center" style="border:none;" src="https://github-readme-stats.vercel.app/api?username=koushiksahu&theme=dark" />
-</a>
-<a style="text-decoration:none" href="https://github.com/KoushikSahu">
-  <img height=200 align="center" style="border:none;" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushiksahu&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-
-<br/>
-
-<a style="text-decoration:none" href="https://codeforces.com/profile/La_Liability">
-  <img height=220 align="center" style="border:none;" src="https://codeforces-readme-stats.vercel.app/api/card?username=la_liability&theme=dark" />
-</a>
-<a style="text-decoration:none" href="https://leetcode.com/u/Koushik_Sahu/">
-  <img height=220 width="fill" align="center" style="border:none;" src="https://leetcard.jacoblin.cool/koushik_sahu?theme=dark&font=Roboto&ext=activity" />
-</a>
-<a style="text-decoration:none" href="https://atcoder.jp/users/La_Liability">
-  <img height=220 width="fill" align="center" style="border:none;" src="https://atcoder-readme-stats.vercel.app/stats/la_liability?theme=darcula&show_history=5&width=400" />
-</a>
-
-<br/>
-
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/koushiksahu/koushiksahu/output/github-contribution-grid-snake-dark.svg">
